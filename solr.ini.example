@@ -1,0 +1,2 @@
+; URL for querying Solr:
+query_url = http://my-server:8080/solr/my-core/select

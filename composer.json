@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pear/file_marc": "^1.1"
+    }
+}
